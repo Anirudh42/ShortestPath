@@ -1,2 +1,2 @@
-# Project1-ShortestPath
+# ShortestPath
 Shortest Path between two given vertices, using BFS
